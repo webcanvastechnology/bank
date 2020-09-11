@@ -1,0 +1,54 @@
+body{
+	background-color: red;
+	margin: 0px;
+	padding: 0px;
+}
+.card-body{
+	text-transform: uppercase;
+	padding left: 10px;
+	float: right;
+}
+.nav-item{
+	text-transform: uppercase;
+	font-style: bold;
+
+}
+.navbar {
+padding-right: 200px;
+}
+
+.nav-item{
+	text-transform: uppercase;
+	font-style: bold;
+	display: flex;
+}
+.nav-link{
+	text-transform: uppercase;
+	font-style: bold;
+}
+.form-row{
+	text-transform: uppercase;
+	font-style: bold;
+}
+.form-group{
+	text-transform: uppercase;
+	font-style: bold;
+	font-size: 18px;
+}
+.form-row{
+	text-transform: uppercase;
+	font-style: bold;
+}
+
+.container-sm{
+	text-transform: uppercase;
+}
+.form{
+	padding-left: 10%;
+}
+.form-group1{
+	box-sizing: border-box;
+	background-color: #9cd9e0;
+	font-style: italic;
+	font-size: 40px;
+}
